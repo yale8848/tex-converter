@@ -1,4 +1,4 @@
-## tex-conveter convert tex text to png,svg,html,mathml 
+## tex-converter convert tex text to png,svg,html,mathml 
 
 
 ### Use docker
