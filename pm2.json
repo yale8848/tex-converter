@@ -1,0 +1,10 @@
+{
+    "name": "tex-converter",
+    "script": "app.js",
+    "instances": "1",
+    "env": {
+        "NODE_ENV": "production",
+        "LOG_MAX_FILES":100,
+        "LOG_SIZE": "2M"
+    }
+}

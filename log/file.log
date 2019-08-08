@@ -1,0 +1,23 @@
+2019-08-01 06:41:00# Web server listening on port 4100!
+2019-08-01 06:41:07# {"req":{"format":"png","tex":"E=mc^2"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-01 07:06:57# Web server listening on port 4100!
+2019-08-01 07:07:22# {"req":{"format":"png","tex":"E=mc^2"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-01 07:16:34# Web server listening on port 4100!
+2019-08-02 07:51:41# {"req":{"format":"png","tex":"E=mc^2"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:51:49# {"req":{"format":"png","tex":"\\int x^{ \\mu } \\text{d} x=\\frac{x^{ \\mu  1}}{ \\mu  1} C, \\left( { \\mu \\neq -1} \\right)"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:52:18# {"req":{"format":"png","tex":"\\int x^{ \\mu } \\text{d} x=\\frac{x^{ \\mu  1}}{ \\mu  1} C, \\left( { \\mu \\neq -1} \\right)"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:52:29# {"req":{"format":"png","tex":"\\int x^{ \\mu } \\text{d} x=\\frac{x^{ \\mu  1}}{ \\mu  1} C, \\left( { \\mu \\neq -1} \\right)"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:52:41# {"req":{"format":"png","tex":"\\int x^{ \\mu } \\text{d} x=\\frac{x^{ \\mu  1}}{ \\mu  1} C, \\left( { \\mu \\neq -1} \\right)","width":"200"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:52:52# {"req":{"format":"png","tex":"\\int x^{ \\mu } \\text{d} x=\\frac{x^{ \\mu  1}}{ \\mu  1} C, \\left( { \\mu \\neq -1} \\right)","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:53:26# {"req":{"format":"png","tex":"2H_2   O_2 \\xrightarrow{n,m}2H_2O","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:54:08# {"req":{"format":"png","tex":"\\text{若}b_{i} \\neq 0,\\lambda_{i} \\text{为任意常数},i=1,2, \\cdots ,n \\\\ \\frac{a_{1}}{b_{1}}= \\frac{a_{2}}{b_{2}}= \\cdots =\\frac{a_{n}}{b_{n}} \\\\ \\Rightarrow \\frac{a_{1}}{b_{1}}= \\frac{\\sum_{n}^{i=1}a_{i}}{\\sum_{n}^{i=1}b_{i}} = \\frac{\\sum_{n}^{i=1} \\lambda_{i}a_{i}}{\\sum_{n}^{i=1} \\lambda_{i}b_{i}} = \\frac{\\sqrt{\\sum_{n}^{i=1}a_{i}^{2}}}{\\sqrt{\\sum_{n}^{i=1}b_{i}^{2}}}","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:55:26# {"req":{"format":"png","tex":"\\text{若}b_{i} \\neq 0,\\lambda_{i} \\text{为任意常数},i=1,2, \\cdots ,n \\\\ \\frac{a_{1}}{b_{1}}= \\frac{a_{2}}{b_{2}}= \\cdots =\\frac{a_{n}}{b_{n}} \\\\ \\Rightarrow \\frac{a_{1}}{b_{1}}= \\frac{\\sum_{n}^{i=1}a_{i}}{\\sum_{n}^{i=1}b_{i}} = \\frac{\\sum_{n}^{i=1} \\lambda_{i}a_{i}}{\\sum_{n}^{i=1} \\lambda_{i}b_{i}} = \\frac{\\sqrt{\\sum_{n}^{i=1}a_{i}^{2}}}{\\sqrt{\\sum_{n}^{i=1}b_{i}^{2}}}","display":"block","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:56:15# {"req":{"format":"png","tex":"a \\ge 0,b \\ge 0 \\\\ \\sqrt[n]{ab}=\\sqrt[n]{a} \\cdot \\sqrt[n]{b}a \\ge 0,b \\ge 0 \\\\ \\sqrt[n]{ab}=\\sqrt[n]{a} \\cdot \\sqrt[n]{b}","display":"block","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:56:25# {"req":{"format":"png","tex":"a \\ge 0,b \\ge 0 \\\\ \\sqrt[n]{ab}=\\sqrt[n]{a} \\cdot \\sqrt[n]{b}a \\ge 0,b \\ge 0 \\\\ \\sqrt[n]{ab}=\\sqrt[n]{a} \\cdot \\sqrt[n]{b}","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:57:23# {"req":{"format":"png","tex":"x = a_0   \\frac{1}{\\displaystyle a_1   \\frac{1} {\\displaystyle a_2   \\frac{1} {\\displaystyle a_3   a_4}}}","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 07:57:50# {"req":{"format":"png","tex":"\\left.\\begin{matrix} m \\subset \\alpha ,n \\subset \\alpha ,m \\cap n=P\\\\ a \\perp m,a \\perp n \\end{matrix}\\right\\}\\Rightarrow a \\perp \\alpha","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 08:01:14# {"req":{"format":"png","tex":"\\begin{pmatrix} a_{11} ","width":"500"},"res":{"statusCode":500,"msg":["TeX parse error: Missing \\end{pmatrix}"]}}
+2019-08-02 08:01:40# {"req":{"format":"png","tex":"\\begin{pmatrix} a_{11} ","width":"500"},"res":{"statusCode":500,"msg":["TeX parse error: Missing \\end{pmatrix}"]}}
+2019-08-02 08:02:39# {"req":{"format":"png","tex":"\\begin{pmatrix}a_{11} & a_{12} & a_{13}\\\\a_{21} & a_{22} & a_{23}\\\\a_{31} & a_{32} & a_{33}\\end{pmatrix}","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 08:03:30# {"req":{"format":"png","tex":"A\\underset{0^{\\circ}C }{\\overset{100^{\\circ}C}{\\rightleftarrows}}B","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-08-02 08:06:04# {"req":{"format":"png","tex":"\\sum_i \\hat{\\psi_i} cos(\\alpha_i \\pm \\omega t)","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
