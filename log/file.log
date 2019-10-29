@@ -21,3 +21,12 @@
 2019-08-02 08:02:39# {"req":{"format":"png","tex":"\\begin{pmatrix}a_{11} & a_{12} & a_{13}\\\\a_{21} & a_{22} & a_{23}\\\\a_{31} & a_{32} & a_{33}\\end{pmatrix}","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
 2019-08-02 08:03:30# {"req":{"format":"png","tex":"A\\underset{0^{\\circ}C }{\\overset{100^{\\circ}C}{\\rightleftarrows}}B","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
 2019-08-02 08:06:04# {"req":{"format":"png","tex":"\\sum_i \\hat{\\psi_i} cos(\\alpha_i \\pm \\omega t)","width":"500"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-10-23 09:57:04# Web server listening on port 4100!
+2019-10-23 09:57:19# {"req":{"format":"png","tex":"E=mc^2"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-10-23 09:57:37# {"req":{"format":"mml","tex":"E=mc^2"},"res":{"ContentType":"text/html","statusCode":200}}
+2019-10-23 09:57:41# {"req":{"format":"mml","tex":"E=mc^2"},"res":{"ContentType":"text/html","statusCode":200}}
+2019-10-29 01:38:57# Web server listening on port 4100!
+2019-10-29 01:39:31# {"req":{"format":"png","tex":"E=mc^2"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-10-29 01:50:36# Web server listening on port 4100!
+2019-10-29 01:50:39# {"req":{"format":"png","tex":"E=mc^2"},"res":{"ContentType":"image/png","statusCode":200}}
+2019-10-29 01:50:42# {"req":{"format":"png","tex":"E=mc^2"},"res":{"ContentType":"image/png","statusCode":200}}

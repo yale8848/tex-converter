@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run --restart=always -d  -p 4100:4100 --name tex-converter -v `pwd`/pm2.json:/pm2.json -v `pwd`/log:/logs  tex-converter:latest
+docker run --rm  -p 4100:4100 --name tex-converter -v `pwd`/pm2.json:/pm2.json -v `pwd`/log:/logs  yale8848/tex-converter:v1

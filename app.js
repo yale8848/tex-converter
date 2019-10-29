@@ -16,9 +16,10 @@ app.use(bodyParser.urlencoded({ extended: true })); // for parsing application/x
 
 log.init();
 
-app.get('/tex', (req, res) => {
+app.use('/tex', (req, res) => {
 
-    let logData = { req: { format: req.query.format, tex: req.query.tex, display: req.query.display, width: req.query.width } };
+    let logData = { req: { format: req.query.format||req.body.format, tex: req.query.tex||req.body.tex, 
+        display:req.query.display|| req.body.display, width: req.query.width||req.body.width } };
 
     mathjax.converter(logData.req).
     then(data => {

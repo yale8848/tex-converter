@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t tex-converter .
+docker build -t yale8848/tex-converter:v1 .
